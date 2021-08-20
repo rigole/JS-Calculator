@@ -68,6 +68,11 @@ button {
     background: rgb(199, 199, 199);
 }
 
+.clear {
+    background: rgb(255, 40, 40);
+    color: white;
+}
+
 .operator {
     background: grey;
     color: white;
@@ -85,4 +90,5 @@ button {
 .equal-sign {
     grid-column: -2;
     grid-row: 2 / span 4;
+    background: rgb(13, 206, 87);
 }
